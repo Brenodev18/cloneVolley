@@ -1,0 +1,45 @@
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    background-color: oklch(.21 .034 264.665);
+    display: flex;
+    flex-direction: column;
+}
+
+.buton{
+    margin-left: 300px;
+    border: 1px solid;
+}
+.buton:hover{
+    color: black;
+    background-color: aliceblue;
+    cursor: pointer;
+}
+
+.carousel-breno{
+    height: 600px;
+    width: 60%;
+    margin: auto;
+}
+
+.card{
+    width: 400px;
+    height: 525px;
+}
+
+.modal-breno{
+    width: 100%;
+    height: 800px;
+}
+
+.modal-breno1{  
+    margin: -20px;
+    margin-bottom: 290px;
+    width: 500px;
+    height: 400px;
+    
+}
+
+
