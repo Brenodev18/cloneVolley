@@ -1,0 +1,19 @@
+body{
+    background: black;
+    display: flex;
+    margin: auto;
+    height: 400px;
+    align-content: center;
+}
+
+.caixa{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+}
+
+.caixa video{
+    border: 1px solid white;
+    margin: auto;
+    height: 800px;
+}

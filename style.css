@@ -20,13 +20,18 @@ body{
 
 .carousel-breno{
     height: 600px;
-    width: 60%;
+    width: 1500px;
     margin: auto;
 }
 
 .card{
     width: 400px;
     height: 525px;
+}
+
+.card ul{
+    align-items: center;
+    text-align: justify;
 }
 
 .modal-breno{
@@ -42,4 +47,11 @@ body{
     
 }
 
+.login{
+    width: 500px;
+    margin: auto;
+}
 
+.cs{
+    height: 200px;
+}
